@@ -26,7 +26,7 @@ As President of my student chapter, I had the honor of leading our team to win t
   <h3>Acute Lymphoblastic Leukemia Detection</h3>
   <p>An automated system using deep learning to improve diagnostic accuracy for ALL. Built with Python, TensorFlow, and Keras.</p>
   <br>
-  <a href="[PASTE_PROJECT_REPO_LINK_HERE]"><strong>View Code »</strong></a>
+  <a href="[[PASTE_PROJECT_REPO_LINK_HERE](https://github.com/SanjayVasista/main-project)]"><strong>View Code »</strong></a>
 </td>
 <td width="50%">
   <h3>Hype. Luxury Landing Page</h3>
@@ -34,7 +34,7 @@ As President of my student chapter, I had the honor of leading our team to win t
   <br>
   <a href="https://hype.luxury"><strong>Live Site »</strong></a>
   <span>&nbsp;&nbsp;</span>
-  <a href="[PASTE_PROJECT_REPO_LINK_HERE]"><strong>View Code »</strong></a>
+<!--   <a href="[PASTE_PROJECT_REPO_LINK_HERE]"><strong>View Code »</strong></a> -->
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ As President of my student chapter, I had the honor of leading our team to win t
   <h3>Elective Course Registration Portal</h3>
   <p>A full-stack web application for students to select elective courses. Built with HTML, CSS, Node.js, and MySQL.</p>
   <br>
-  <a href="[PASTE_PROJECT_REPO_LINK_HERE]"><strong>View Code »</strong></a>
+  <a href="(https://github.com/SanjayVasista/Mini-project)"><strong>View Code »</strong></a>
 </td>
 <td width="50%">
   <h3>CEO Portfolio - Raghav Belavadi</h3>
@@ -50,7 +50,7 @@ As President of my student chapter, I had the honor of leading our team to win t
   <br>
   <a href="https://raghavbelavadi.com"><strong>Live Site »</strong></a>
   <span>&nbsp;&nbsp;</span>
-  <a href="[PASTE_PROJECT_REPO_LINK_HERE]"><strong>View Code »</strong></a>
+  <a href="https://github.com/SanjayVasista/raaghav-page"><strong>View Code »</strong></a>
 </td>
 </tr>
 </table>
