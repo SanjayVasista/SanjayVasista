@@ -1,7 +1,7 @@
 # Hi, I'm Sanjay Vasista GS 👋
 
 ## 💫 About Me
-I'm a final-year Computer Science Engineer at Malnad College of Engineering (CGPA: **9.19/10**) with a passion for building solutions that make a real-world impact.
+Recently graduated with a Computer Science degree from Malnad College of Engineering, earning (CGPA: **9.19/10**) with a passion for building solutions that make a real-world impact.
 
 As an intern, I've developed and deployed live, production-ready websites for high-end brands using **Next.js** and **Firebase**. My work also extends to AI, where I developed a **deep learning system** to improve the accuracy of Leukemia diagnostics.
 
